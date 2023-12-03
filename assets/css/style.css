@@ -1,0 +1,63 @@
+.navbar-expand-lg{
+    color: white;
+}
+
+.img-fluid{
+   width: 50px;
+}
+
+h1{
+    margin: 50px;
+}
+
+p{
+    margin: 50px;
+}
+
+.txt-2{
+    margin-bottom: 5px;
+}
+
+.accordionExample{
+    margin: 50px;
+}
+
+li{
+    margin-left: 50px;
+}
+
+.Experiencia {
+    margin: 100px;
+    margin-top: 20px;
+}
+
+.portafolio{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: #d94e67;
+}
+
+.btn-warning{
+    --bs-btn-color: white;
+    --bs-btn-bg: #d94e67;
+    --bs-btn-border-color: #d94e67;
+    --bs-btn-hover-color: white;
+    --bs-btn-hover-bg: #d94e67;
+    --bs-btn-hover-border-color: #d94e67;
+    --bs-btn-active-color: white;
+    --bs-btn-active-bg: #d94e67;
+    --bs-btn-active-border-color: #d94e67;
+    --bs-btn-disabled-color: white;
+    --bs-btn-disabled-bg: #d94e67;
+    --bs-btn-disabled-border-color: #d94e67;
+}
+
+
+footer{
+    background-color: #d94e67;
+    font-family: 'raleway', sans-serif;
+    text-align: center;
+    color: white;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
